@@ -2,7 +2,7 @@ import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 
 function Cardnew(props) {
-  console.log(props.data);
+  // console.log(props.data);
   return (
     <> 
 

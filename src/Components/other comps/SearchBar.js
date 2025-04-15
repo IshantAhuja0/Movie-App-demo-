@@ -27,7 +27,7 @@ export default function SearchBar(props) {
   return (
     <>
       <Container>
-      <Row className="my-4 d-flex justify-content-between">
+      <Row className="py-4 d-flex justify-content-between">
         <Col>
           <Form onSubmit={handleSearch} className="d-flex">
             <FormControl

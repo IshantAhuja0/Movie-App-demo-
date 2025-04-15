@@ -1,7 +1,7 @@
 import React from 'react'
 import { Container } from 'react-bootstrap'
 import Row from 'react-bootstrap/Row'
-import Cardnew from '../Cardnew'
+import Cardnew from './Cardnew'
 export default function SearchedMovie(props) {
 
 
