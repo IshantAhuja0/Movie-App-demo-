@@ -1,4 +1,4 @@
-I'm working on a movie search app using React that lets users explore movies, web series, reviews, and latest releases. It uses dynamic data with MongoDB for storage. For managing state, I’ve used the Context API. The UI is styled with Bootstrap to keep it clean and responsive.
+Built an movie search app using React that lets users explore movies, web series, reviews, and latest releases. It uses dynamic data with MongoDB for storage. For managing state, I’ve used the Context API. The UI is styled with Bootstrap to keep it clean and responsive.
 
 - React-based app for searching movies, web series, and reviews
 
