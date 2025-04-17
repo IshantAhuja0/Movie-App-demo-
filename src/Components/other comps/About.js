@@ -18,7 +18,6 @@ function About() {
           >
             About 
           </motion.h1>
-
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}

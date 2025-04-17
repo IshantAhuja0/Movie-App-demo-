@@ -7,7 +7,7 @@ function Cardnew(props) {
     <> 
 
           <Col sm={6} md={4} lg={3}>
-      <Card className='mb-4 shadow-lg' key={props.key}  style={{minHeight:'28rem',maxHeight:'28rem',overflow:'hidden'}}>
+      <Card className='mb-4 shadow-lg' key={props.key}  style={{minHeight:'28rem',maxHeight:'28rem',overflow:'hidden', backgroundColor:"#040b14", color:"white"}}>
       <Card.Img className='p-2 border-1 rounded-4' style={{maxHeight:'17rem'}} src={'https://image.tmdb.org/t/p/w1280'+props.data.poster_path} alt='Picture not available'/>
       <Card.Body>
         <div className='d-flex justify-content-between align-items-center'>
